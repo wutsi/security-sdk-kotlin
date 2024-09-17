@@ -14,7 +14,7 @@
     <properties>
         <jdk.version>11</jdk.version>
 
-        <feign.version>13.3</feign.version>
+        <feign.version>13.4</feign.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <kotlin.version>2.0.20</kotlin.version>
     </properties>
