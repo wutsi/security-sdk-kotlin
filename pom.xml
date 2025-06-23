@@ -6,7 +6,7 @@
 
     <artifactId>security-sdk-kotlin</artifactId>
     <groupId>com.wutsi.security</groupId>
-    <version>1.2.47</version>
+    <version>1.2.48-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>security-sdk-kotlin</name>
@@ -54,7 +54,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/wutsi/security-sdk-kotlin.git</developerConnection>
-        <tag>security-sdk-kotlin-1.2.47</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
